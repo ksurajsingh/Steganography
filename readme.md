@@ -17,16 +17,11 @@
        - [ ] mp4
 - [ ] read/write LSB
     - [ ] stego 
-        - [ ] image
-        - [ ] video 
-        - [ ] audio 
-        - [ ] pdf 
-        - [ ] zip 
-        - [ ] text?
+        - [x] image
     - [ ] secret
         - [ ] image
         - [ ] video 
         - [ ] audio 
         - [ ] pdf 
         - [ ] zip 
-        - [ ] text?
+        - [x] text
