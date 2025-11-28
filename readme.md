@@ -1,18 +1,32 @@
 # TODO 
 
-- [ ] read/write binary
-- [ ] stego file 
-   - [x] jpg 
-   - [x] png 
-   - [x] mp3
-   - [x] mp4
-   - [x] pdf
-   - [x] zip
-   - [ ] text?
-- [ ] secret file 
-   - [x] text
-   - [x] jpg 
-   - [x] png 
-   - [ ] mp3
-   - [ ] mp4
-- [ ] read/write encyprted binary / streams
+- [x] read/write binary EOF
+    - [x] stego file 
+       - [x] jpg 
+       - [x] png 
+       - [x] mp3
+       - [x] mp4
+       - [x] pdf
+       - [x] zip
+       - [ ] text? "text files are not ideal since they don't have proper EOF marker"
+    - [ ] secret file 
+       - [x] text
+       - [x] jpg 
+       - [x] png 
+       - [ ] mp3
+       - [ ] mp4
+- [ ] read/write LSB
+    - [ ] stego 
+        - [ ] image
+        - [ ] video 
+        - [ ] audio 
+        - [ ] pdf 
+        - [ ] zip 
+        - [ ] text?
+    - [ ] secret
+        - [ ] image
+        - [ ] video 
+        - [ ] audio 
+        - [ ] pdf 
+        - [ ] zip 
+        - [ ] text?
