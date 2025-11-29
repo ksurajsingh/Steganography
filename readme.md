@@ -7,6 +7,7 @@
    - [x] mp3
    - [x] mp4
    - [x] pdf
+   - [x] zip
    - [ ] text?
 - [ ] secret file 
    - [x] text
