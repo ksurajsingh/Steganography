@@ -6,6 +6,7 @@
    - [x] png 
    - [x] mp3
    - [x] mp4
+   - [x] pdf
    - [ ] text?
 - [ ] secret file 
    - [x] text
