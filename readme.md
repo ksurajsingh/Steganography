@@ -4,13 +4,13 @@
 - [ ] stego file 
    - [x] jpg 
    - [x] png 
-   - [ ] mp3
+   - [x] mp3
    - [ ] mp4
    - [ ] text?
 - [ ] secret file 
    - [x] text
    - [x] jpg 
-   - [ ] png 
+   - [x] png 
    - [ ] mp3
    - [ ] mp4
 - [ ] read/write encyprted binary / streams
