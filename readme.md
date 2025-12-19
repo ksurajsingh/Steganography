@@ -13,3 +13,4 @@
    - [ ] png 
    - [ ] mp3
    - [ ] mp4
+- [ ] read/write encyprted binary / streams
