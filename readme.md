@@ -9,7 +9,7 @@
    - [ ] text?
 - [ ] secret file 
    - [x] text
-   - [ ] jpg 
+   - [x] jpg 
    - [ ] png 
    - [ ] mp3
    - [ ] mp4
