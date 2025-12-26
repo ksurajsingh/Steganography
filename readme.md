@@ -3,7 +3,7 @@
 - [ ] read/write binary
 - [ ] stego file 
    - [x] jpg 
-   - [ ] png 
+   - [x] png 
    - [ ] mp3
    - [ ] mp4
    - [ ] text?
