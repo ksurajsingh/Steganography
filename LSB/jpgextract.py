@@ -2,7 +2,7 @@ import sys
 from PIL import Image
 import struct
 
-#! Python to extract data from JPEG using LSB steganography
+#! Python to extract data from JPEG using LSB steganographygit@github.com:ksurajsingh/Steganography.git
 # Note: JPEG is lossy, so extraction may be less reliable than PNG
 
 if len(sys.argv) != 3:
